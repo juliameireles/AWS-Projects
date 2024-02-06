@@ -1,0 +1,2 @@
+O objetivo desse projeto foi criar um web server ubuntu usando os serviços da AWS. Para o projeto, foram usados recursos AWS 
+como VPC, as máquinas EC2, elastic ip, subnets, Internet Gateway, entre outros. Todos os seviços foram criados e executados por meio de código, usando o Terraform. 
