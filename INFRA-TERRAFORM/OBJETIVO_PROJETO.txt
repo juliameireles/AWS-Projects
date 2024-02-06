@@ -1,0 +1,9 @@
+# 1.Criar um VPC com DUAS subredes ( uma publica outra privada) 
+# 2.Associar um Internet Gateway e associar a VPC 
+# 3. Criar um Route Table para VPC  
+# 4. Adicionar rota padrão para o Internet Gateway 
+# 5. Associar Route Table à subnet pública 
+# 6. Criar Key Pair para as instâncias 
+# Criar uma instância EC2 Linux na subnet publica e outra na subnet privada 
+
+ACCESS KEY E SECRET KEY NÃO FORAM DISPONIBILIZADOS POR MOTIVOS DE SEGURANÇA
