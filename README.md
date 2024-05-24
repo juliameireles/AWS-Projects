@@ -1,4 +1,4 @@
-# Creating EC2 instancesc within differnt subnets with Terraform
+# Creating EC2 instancesc within different subnets with Terraform
  1. Create a VPC with two subnets (public and private)
  2. Create a Internet Gateway e associate to the VPC 
  3. Create  a Route Table for a VPC  
