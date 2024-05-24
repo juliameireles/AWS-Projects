@@ -1,9 +1,8 @@
 # Criando instancias EC2 em diferentes subnets com Terraform
-# Resumo do projeto 
-# 1.Criar um VPC com DUAS subredes ( uma publica outra privada) 
-# 2.Associar um Internet Gateway e associar a VPC 
-# 3. Criar um Route Table para VPC  
-# 4. Adicionar rota padrão para o Internet Gateway 
-# 5. Associar Route Table à subnet pública 
-# 6. Criar Key Pair para as instâncias 
-# Criar uma instância EC2 Linux na subnet publica e outra na subnet privada 
+ 1.Criar um VPC com DUAS subredes ( uma publica outra privada) 
+ 2.Associar um Internet Gateway e associar a VPC 
+ 3. Criar um Route Table para VPC  
+ 4. Adicionar rota padrão para o Internet Gateway 
+ 5. Associar Route Table à subnet pública 
+ 6. Criar Key Pair para as instâncias 
+ 7.Criar uma instância EC2 Linux na subnet publica e outra na subnet privada 
